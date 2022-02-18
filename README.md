@@ -1,5 +1,5 @@
 # melon.client
-a client that wont get you banned
+a client that wont get you banned (only useing melon approved mods...mostly)
 
 install melon loader from here https://melonwiki.xyz/#/
 
